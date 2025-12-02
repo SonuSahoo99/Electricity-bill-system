@@ -53,7 +53,7 @@ void addConsumer() {
     fwrite(&c, sizeof(c), 1, fp);
     fclose(fp);
 
-    printf("\n✅ Consumer Added Successfully!\n");
+    printf("\n Consumer Added Successfully!\n");
 }
 
 void displayBill() {
@@ -89,7 +89,7 @@ void displayBill() {
     }
 
     if (!found)
-        printf("\n❌ Consumer Not Found!\n");
+        printf("\n Consumer Not Found!\n");
 
     fclose(fp);
 }
@@ -148,10 +148,11 @@ int main() {
                 printf("\nThank You! Exiting...\n");
                 break;
             default:
-                printf("\n❌ Invalid Choice!\n");
+                printf("\n Invalid Choice!\n");
         }
 
     } while (choice != 4);
 
     return 0;
 }
+

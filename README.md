@@ -1,9 +1,7 @@
 This is a menu-driven Electricity Bill Generator developed using the C programming language.
 It calculates electricity bills based on slab-wise tariff rates using consumer meter readings.
 The program allows adding consumers, generating individual bills, and viewing monthly reports.
-All consumer data is stored permanently using file.<img width="1841" height="950" alt="Screenshot 2025-12-03 001809" src="https://github.com/user-attachments/assets/fea231ea-3589-458c-987e-c9176d049eb5" />
-<img width="1841" height="950" alt="Screenshot 2025-12-03 001809" src="https://github.com/user-attachments/assets/1d59688a-499c-4025-9fcc-7940e23d4aed" />
-
+All consumer data is stored permanently using file
 
 Core Concept
 
@@ -64,5 +62,6 @@ Bill Calculation Module
 Bill Display & Print Module
 
 File Storage Module
+<img width="1841" height="950" alt="Screenshot 2025-12-03 001809" src="https://github.com/user-attachments/assets/1d59688a-499c-4025-9fcc-7940e23d4aed" />
 
 Monthly Report Generator

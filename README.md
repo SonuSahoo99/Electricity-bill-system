@@ -51,17 +51,21 @@ String handling
 
  Project Modules
 
-Login Module
+
 
 Consumer Registration Module
 
 Meter Reading Input
 
+
+Unique :-
+
+Login Module
+Bill Display & Print Module
+File Storage Module
+Monthly Report Generator
 Bill Calculation Module
 
-Bill Display & Print Module
-
-File Storage Module
 <img width="1841" height="950" alt="Screenshot 2025-12-03 001809" src="https://github.com/user-attachments/assets/1d59688a-499c-4025-9fcc-7940e23d4aed" />
 
-Monthly Report Generator
+
